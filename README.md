@@ -1,5 +1,7 @@
 # Épendes Observatory Landscape for Stellarium
 
+Version 1.1, 15-12-2012
+
 ## License and credits
 
 Copyright (C) 2006-2012 Nicolas Martignoni
@@ -10,8 +12,8 @@ Photos and landscape creation by Nicolas Martignoni <nicolas@martignoni.net>
 
 ## Version history
 
-Version 1.0, 08-12-2012: Initial version
-Version 1.1, 15-12-2012: Fix orientation of landscape image
+* Version 1.0, 08-12-2012: Initial version
+* Version 1.1, 15-12-2012: Fix orientation of landscape image
 
 ## Description
 
@@ -33,7 +35,7 @@ See [Stellarium landscapes](http://www.stellarium.org/wiki/index.php/Landscapes)
 
 If you have Stellarium 0.10.6 or later version, you can use the "Add/remove landscapes" feature to install landscapes automatically.
 
-If you are using an earlier version of Stellarium, unzip the zip file in the <user_data_directory>/landscapes directory. The location varies depending on your operating system. See [Stellarium file structure](http://www.stellarium.org/doc/head/fileStructure.html) for per-platform details. Once you have installed the landscape, open Stellarium and go to the configuration dialog.  Select the landscapes tab, and select the landscape from the list of available landscapes.
+If you are using an earlier version of Stellarium, unzip the zip file in the `<user_data_directory>/landscapes` directory. The location varies depending on your operating system. See [Stellarium file structure](http://www.stellarium.org/doc/head/fileStructure.html) for per-platform details. Once you have installed the landscape, open Stellarium and go to the configuration dialog.  Select the landscapes tab, and select the landscape from the list of available landscapes.
 
 Be sure to have the "Setting landscape updates location" button checked in order to correctly simulate the viewing conditions at Épendes Observatory.
 

@@ -1,6 +1,6 @@
 # Épendes Observatory Landscape for Stellarium
 
-Version 1.1, 15-12-2012
+Version 1.2, 15-12-2012
 
 ## License and credits
 
@@ -14,10 +14,11 @@ Photos and landscape creation by Nicolas Martignoni <nicolas@martignoni.net>
 
 * Version 1.0, 08-12-2012: Initial version
 * Version 1.1, 15-12-2012: Fix orientation of landscape image
+* Version 1.2, 15-12-2012: Correction of coordinates
 
 ## Description
 
-This high resolution landscape shows the panorama visible from the roof of the [Observatoire Astronomique Robert A. Naef in Épendes](http://www.observatoire-naef.ch/), near Fribourg, Switzerland (lat. 46d44'01"N, long. 7d08'25"E, alt. 700 m).
+This high resolution landscape shows the panorama visible from the roof of the [Observatoire Astronomique Robert A. Naef in Épendes](http://www.observatoire-naef.ch/), near Fribourg, Switzerland ([lat. 46°45'45"N, long. 7°08'22"E, alt. 700 m](http://toolserver.org/~geohack/geohack.php?params=46.76236_N_7.13938_E)).
 
 ## Files
 

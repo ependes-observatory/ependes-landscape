@@ -1,0 +1,9 @@
+*.svn*
+*.git*
+*.DS_Store*
+*/._*
+*/.DS_Store
+zip_exclude.lst._*
+zip_exclude.lst._*
+ependes.zip
+ependes.zip._*

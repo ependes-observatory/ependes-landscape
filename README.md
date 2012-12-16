@@ -20,11 +20,11 @@ This high resolution landscape shows the panorama visible from the roof of the [
 
 This file (`README.md`) should have come in a zip file with some others. Here is a listing of all the files which should be in the zip file:
 
-  `README.md` (this file)
-  `landscape.ini`
-  `ependes-4096.png`
-  `ependes-2048.png`
-  `ependes-1024.png`
+*  `README.md` (this file)
+*  `landscape.ini`
+*  `ependes-4096.png`
+*  `ependes-2048.png`
+*  `ependes-1024.png`
 
 ## Installation & Use
 

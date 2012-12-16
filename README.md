@@ -8,9 +8,10 @@ These files are provided under the terms of the CC BY-NC-SA 3.0.
 
 Photos and landscape creation by Nicolas Martignoni <nicolas@martignoni.net>
 
-## Version
+## Version history
 
-Version 1.0, 08-12-2012
+Version 1.0, 08-12-2012: Initial version
+Version 1.1, 15-12-2012: Fix orientation of landscape image
 
 ## Description
 

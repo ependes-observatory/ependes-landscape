@@ -7,3 +7,6 @@ zip_exclude.lst
 zip_exclude.lst._*
 ependes.zip
 ependes.zip._*
+Makefile*
+ependes-thumbnail.png
+ependes-thumbnail.png._*

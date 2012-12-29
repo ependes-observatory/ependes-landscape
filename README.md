@@ -1,6 +1,6 @@
 # Épendes Observatory Landscape for Stellarium
 
-Version 1.3, 27-12-2012
+Version 1.3.1, 29-12-2012
 
 ## License and credits
 
@@ -16,6 +16,7 @@ Photos and landscape creation by Nicolas Martignoni <nicolas@martignoni.net>
 * Version 1.1, 15-12-2012: Fix orientation of landscape image
 * Version 1.2, 15-12-2012: Correction of coordinates
 * Version 1.3, 27-12-2012: Add light pollution and other atmospheric extinction values
+* Version 1.3.1, 29-12-2012: Localisation added (en, fr, de, it)
 
 ## Description
 
@@ -30,6 +31,10 @@ This file (`README.md`) should have come in a zip file with some others. Here is
 *  `ependes-4096.png`
 *  `ependes-2048.png`
 *  `ependes-1024.png`
+*  `description.de.utf8`
+*  `description.en.utf8`
+*  `description.fr.utf8`
+*  `description.it.utf8`
 
 ## Installation & Use
 

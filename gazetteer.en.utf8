@@ -1,0 +1,8 @@
+# Gazetteer for Épendes observatory landscape
+# Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
+10.5  | 0  | 3   | 0 | Fribourg (4.6 km)
+128   | 4  | 2   | 0 | Burgerwald (8 km)
+151   | 5  | 2.5 | 0 | Épendes
+160.5 | 6  | 2   | 0 | La Berra (10 km)
+221   | 3  | 2   | 0 | Le Gibloux (11.5 km)
+275   | 1  | 2   | 0 | Neyruz (5.8 km)

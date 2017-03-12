@@ -5,8 +5,8 @@
 */.DS_Store
 zip_exclude.lst
 zip_exclude.lst._*
-ependes.zip
-ependes.zip._*
+*.zip
+*.zip._*
 Makefile*
 ependes-thumbnail.png
 ependes-thumbnail.png._*

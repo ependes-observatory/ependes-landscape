@@ -1,6 +1,6 @@
 # Épendes Observatory Landscape for Stellarium
 
-Version 1.4.1, 2017-03-12
+Version 1.5, 2017-03-12
 
 ## License and credits
 
@@ -19,14 +19,21 @@ Photos and landscape creation by Nicolas Martignoni <nicolas@martignoni.net>
 * Version 1.3.1, 2012-12-29: Localisation added (en, fr, de, it)
 * Version 1.4, 2015-06-14: Gazetteer files added (en, fr, de), orientation fixed
 * Version 1.4.1, 2017-03-12: Gazetteer file added (it), some other minor changes
+* Version 1.5, 2017-03-12: Refactoring project
 
 ## Description
 
 This high resolution landscape shows the panorama visible from the roof of the [Observatoire Astronomique Robert A. Naef in Épendes](http://www.observatoire-naef.ch/), near Fribourg, Switzerland ([lat. 46°45'45"N, long. 7°08'22"E, alt. 700 m](http://toolserver.org/~geohack/geohack.php?params=46.76236_N_7.13938_E)).
 
-## Files
+## Version and files
 
-This file (`README.md`) should have come in a zip file with some others. Here is a listing of all the files which should be in the zip file:
+This landscapes comes in two different versions: __spherical__ (aka _single panorama_) and __old-style__ (or _multiple image_).
+
+You should use the spherical one, unless you run some older configuration, where spherical landscape doesn't display because of low memory on the graphic chip. In this case, use the old-style version.
+
+### Spherical landscape
+
+This file (`README.md`) should have come in a zip file with some others. Here is a listing of all the files which should be in the zip file of the pherical landscape:
 
 *  `README.md` (this file)
 *  `landscape.ini`
@@ -42,6 +49,29 @@ This file (`README.md`) should have come in a zip file with some others. Here is
 *  `gazetteer.fr.utf8`
 *  `gazetteer.it.utf8`
 
+The landscape.ini file is configured to use the highest resolution available. Should you experience problems using the landscape, you might want to open landscape.ini in a text editor and replace the line `maptex = ependes-4096.png` and replace `4096` with `2048` or `1024` respectively.
+
+### Old-style landscape
+
+This file (`README.md`) should have come in a zip file with some others. Here is a listing of all the files which should be in the zip file of the old-style landscape:
+
+*  `README.md` (this file)
+*  `landscape.ini`
+*  `ependes-0.png`
+*  `ependes-1.png`
+*  `ependes-2.png`
+*  `ependes-3.png`
+*  `ependesb.png`
+*  `description.de.utf8`
+*  `description.en.utf8`
+*  `description.fr.utf8`
+*  `description.it.utf8`
+*  `gazetteer.de.utf8`
+*  `gazetteer.en.utf8`
+*  `gazetteer.fr.utf8`
+*  `gazetteer.it.utf8`
+
+
 ## Installation & Use
 
 See [Stellarium landscapes](http://www.stellarium.org/wiki/index.php/Landscapes) for a complete installation procedure.
@@ -52,4 +82,3 @@ If you are using an earlier version of Stellarium, unzip the zip file in the `<u
 
 Be sure to have the "Setting landscape updates location" button checked in order to correctly simulate the viewing conditions at Épendes Observatory.
 
-The landscape.ini file is configured to use the highest resolution available. Should you experience problems using the landscape, you might want to open landscape.ini in a text editor and replace the line `maptex = ependes-4096.png` and replace `4096` with `2048` or `1024` respectively.

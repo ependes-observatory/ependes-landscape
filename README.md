@@ -1,10 +1,10 @@
 # Épendes Observatory Landscape for Stellarium
 
-Version 1.4, 2015-06-14
+Version 1.4.1, 2017-03-12
 
 ## License and credits
 
-Copyright (C) 2006-2012 Nicolas Martignoni
+Copyright (C) 2006 onwards Nicolas Martignoni
 
 These files are provided under the terms of the CC BY-NC-SA 3.0.
 
@@ -18,6 +18,7 @@ Photos and landscape creation by Nicolas Martignoni <nicolas@martignoni.net>
 * Version 1.3, 2012-12-27: Add light pollution and other atmospheric extinction values
 * Version 1.3.1, 2012-12-29: Localisation added (en, fr, de, it)
 * Version 1.4, 2015-06-14: Gazetteer files added (en, fr, de), orientation fixed
+* Version 1.4.1, 2017-03-12: Gazetteer file added (it), some other minor changes
 
 ## Description
 
@@ -39,6 +40,7 @@ This file (`README.md`) should have come in a zip file with some others. Here is
 *  `gazetteer.de.utf8`
 *  `gazetteer.en.utf8`
 *  `gazetteer.fr.utf8`
+*  `gazetteer.it.utf8`
 
 ## Installation & Use
 
@@ -46,7 +48,7 @@ See [Stellarium landscapes](http://www.stellarium.org/wiki/index.php/Landscapes)
 
 If you have Stellarium 0.10.6 or later version, you can use the "Add/remove landscapes" feature to install landscapes automatically.
 
-If you are using an earlier version of Stellarium, unzip the zip file in the `<user_data_directory>/landscapes` directory. The location varies depending on your operating system. See [Stellarium file structure](http://www.stellarium.org/doc/head/fileStructure.html) for per-platform details. Once you have installed the landscape, open Stellarium and go to the configuration dialog.  Select the landscapes tab, and select the landscape from the list of available landscapes.
+If you are using an earlier version of Stellarium, unzip the zip file in the `<user_data_directory>/landscapes` directory. The location varies depending on your operating system. See [Stellarium file structure](http://stellarium.org/doc/0.15.1/fileStructure.html) for per-platform details. Once you have installed the landscape, open Stellarium and go to the configuration dialog.  Select the landscapes tab, and select the landscape from the list of available landscapes.
 
 Be sure to have the "Setting landscape updates location" button checked in order to correctly simulate the viewing conditions at Épendes Observatory.
 

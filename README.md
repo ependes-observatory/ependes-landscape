@@ -1,6 +1,6 @@
 # Épendes Observatory Landscape for Stellarium
 
-Version 1.6, unreleased
+Version 1.6, 2019-01-02
 
 ## License and credits
 
@@ -12,7 +12,7 @@ Photos and landscape creation by Nicolas Martignoni <nicolas@martignoni.net>
 
 ## Version history
 
-- Version 1.6, unreleased: Fix altitude, update documentation and links
+- Version 1.6, 2019-01-02: Fix altitude, update documentation and links
 - Version 1.5, 2017-03-12: Refactoring project
 - Version 1.4.1, 2017-03-12: Gazetteer file added (it), some other minor changes
 - Version 1.4, 2015-06-14: Gazetteer files added (en, fr, de), orientation fixed
